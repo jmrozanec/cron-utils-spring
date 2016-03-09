@@ -1,4 +1,4 @@
-cron-utils
+cron-utils-spring
 ===========
 A Java library to describe cron expressions in human readable language at Spring framework, using [cron-utils](http://cron-utils.com). The project follows the [Semantic Versioning Convention](http://semver.org/) and uses Apache 2.0 license.
 
