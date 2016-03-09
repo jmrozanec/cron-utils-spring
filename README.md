@@ -16,7 +16,7 @@ cron-utils-spring is available on [Maven central](http://search.maven.org/#searc
 **Contribute & Support!**
 
 Contributions are welcome! You can contribute by
- * star and/or Flattr this repo!
+ * starring and/or Flattring this repo!
  * requesting or adding new features.
  * enhancing existing code: ex.: provide more accurate description cases
  * testing
