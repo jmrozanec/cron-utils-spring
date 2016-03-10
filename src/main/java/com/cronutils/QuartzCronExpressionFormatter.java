@@ -24,7 +24,7 @@ import java.util.Locale;
  *			&lt;/set&gt;
  *		&lt;/property&gt;
  * &lt;/bean&gt;
- * </pre></code></blockquote>
+ * </code></blockquote>
  *
  * In ThymeLeaf, cron expression can be displayed as <code>${{cronExpression}}</code>.
  */
