@@ -9,7 +9,7 @@ cron-utils-spring is available on [Maven central](http://search.maven.org/#searc
     <dependency>
         <groupId>com.cronutils</groupId>
         <artifactId>cron-utils-spring</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </dependency>
 
 
